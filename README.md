@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p align="center"><img alt="Welcome" src="https://readme-typing-svg.herokuapp.com?color=1FF75D&background=3420FF44&center=true&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Profile&width=500" /></p>
 <p align="center">
-    <a href="https://wakatime.com/leaders/sec/44571acd-0429-4451-90ca-1371f240a12c"><img src="https://wakatime.com/badge/user/ea16762b-aa50-4142-8fd0-b4683ff2bed6.svg" alt="Total time coded since July 28 2022" /></a>
+    <a href="https://wakatime.com/@7ebe5354-b2bd-450b-a97c-ef21eea68e22"><img src="https://wakatime.com/badge/user/ea16762b-aa50-4142-8fd0-b4683ff2bed6.svg" alt="Total time coded since July 28 2022" /></a>
     <a href="https://github.com/puravi-238/">
       <img alt="Visitors" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fumang-singla1212%2Fhit-counter" />
     </a>
