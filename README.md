@@ -30,11 +30,11 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=puravi-238&theme=blue-green&show_icons=true&count_private=true&hide_border=true" /></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umang-singla&theme=blue-green&layout=compact&langs_count=10&hide_border=true" /></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puravi-238&theme=blue-green&layout=compact&langs_count=10&hide_border=true" /></td>
   </tr>
   <tr>
   <tr>
-    <td><img width="766em" src="https://github-profile-trophy.vercel.app/?username=umang-singla&theme=discord&no-frame=true&row=1&column=7" /></td>
+    <td><img width="766em" src="https://github-profile-trophy.vercel.app/?username=puravi-238&theme=discord&no-frame=true&row=1&column=7" /></td>
   </tr>
 </table>
 <br>
