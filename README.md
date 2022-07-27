@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 <p align="center"><img alt="Welcome" src="https://readme-typing-svg.herokuapp.com?color=1FF75D&background=3420FF44&center=true&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Profile&width=500" /></p>
 <p align="center">
     <a href="https://wakatime.com/@7ebe5354-b2bd-450b-a97c-ef21eea68e22"><img src="https://wakatime.com/badge/user/7ebe5354-b2bd-450b-a97c-ef21eea68e22.svg" alt="Total time coded since Jun 5 2022" /></a>
-    <a href="https://github.com/puravi-238/">
-      <img alt="Visitors" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fumang-singla1212%2Fhit-counter" />
-    </a>
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpuravi-238%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+    <a href="https://github.com/puravi-238/"><img alt="Visitors" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpuravi-238%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
     <br />
     <br />
     </a>
