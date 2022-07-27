@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <td align="center" colspan="2"><img src="http://github-readme-streak-stats.herokuapp.com?user=puravi-238&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=umang-singla&theme=blue-green&show_icons=true&count_private=true&hide_border=true" /></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=puravi-238&theme=blue-green&show_icons=true&count_private=true&hide_border=true" /></td>
     <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umang-singla&theme=blue-green&layout=compact&langs_count=10&hide_border=true" /></td>
   </tr>
   <tr>
