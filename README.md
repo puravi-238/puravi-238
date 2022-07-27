@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <!-- <a href="https://github.com/anuraghazra/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a> -->
-    <a href="https://wakatime.com/@ea16762b-aa50-4142-8fd0-b4683ff2bed6"><img src="https://wakatime.com/badge/user/ea16762b-aa50-4142-8fd0-b4683ff2bed6.svg" alt="Total time coded since Apr 7 2022" /></a>
+    <a href="https://wakatime.com/@ea16762b-aa50-4142-8fd0-b4683ff2bed6"><img src="https://wakatime.com/badge/user/ea16762b-aa50-4142-8fd0-b4683ff2bed6.svg" alt="Total time coded since July 28 2022" /></a>
     <!-- <a href="https://github.com/nsingla20/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/nsingla20?color=0088ff" />
     </a>
