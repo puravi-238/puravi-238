@@ -34,11 +34,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
   <tr>
-    <td><img width="766em" src="https://github-profile-trophy.vercel.app/?username=puravi-238&theme=discord&no-frame=true&row=1&column=7" /></td>
+    <td><img width="766em" src="https://github-profile-trophy.vercel.app/?username=puravi-238&theme=discord&no-frame=true&row=1&column=6" /></td>
   </tr>
 </table>
 <br>
-
-<!-- [![Naman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nsingla20&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) -->
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
